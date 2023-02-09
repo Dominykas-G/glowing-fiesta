@@ -1,0 +1,15 @@
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\bin\Debug\net6.0\csDalykai.exe
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\bin\Debug\net6.0\csDalykai.deps.json
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\bin\Debug\net6.0\csDalykai.runtimeconfig.json
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\bin\Debug\net6.0\csDalykai.dll
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\bin\Debug\net6.0\csDalykai.pdb
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.csproj.AssemblyReference.cache
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.AssemblyInfoInputs.cache
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.AssemblyInfo.cs
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.csproj.CoreCompileInputs.cache
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.dll
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\refint\csDalykai.dll
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.pdb
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\csDalykai.genruntimeconfig.cache
+C:\Users\dominykas.gudavicius\Desktop\csDalykai\obj\Debug\net6.0\ref\csDalykai.dll
