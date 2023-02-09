@@ -1,2 +1,3 @@
 https://www.nuget.org/packages/svg
 pabandyti Rust su https://crates.io/crates/resvg/0.6.1
+a
