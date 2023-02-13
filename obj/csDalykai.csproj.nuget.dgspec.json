@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj": {}
+    "c:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj": {
+    "c:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj",
+        "projectUniqueName": "c:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj",
         "projectName": "csDalykai",
-        "projectPath": "C:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj",
+        "projectPath": "c:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj",
         "packagesPath": "C:\\Users\\dominykas.gudavicius\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\obj\\",
+        "outputPath": "c:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dominykas.gudavicius\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -29,6 +29,12 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1603",
+            "NU1604",
+            "NU1605",
+            "NU1608"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -37,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
