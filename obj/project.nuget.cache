@@ -1,21 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VF6ZAbulptM+xGGWEjVLXrMKhZBo5PPfma5Y7dPBFIUOvZgN9WueRG1+xf4X64k65WJG83cXMRAGZd6UxdbpPA==",
+  "dgSpecHash": "6z8qUybVWeaZM1ZAiB8aXbpLrO2hYiVHLqqx4hCNaYenYt0G5aEf3acYzK7k22wixdCky4ffMHcyJlSG+Zka5A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\dominykas.gudavicius\\.nuget\\packages\\newtonsoft.json\\6.0.8\\newtonsoft.json.6.0.8.nupkg.sha512"
-  ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Newtonsoft.Json 6.0.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Newtonsoft.Json",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "projectFilePath": "C:\\Users\\dominykas.gudavicius\\Desktop\\csDalykai\\csDalykai.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
 }
